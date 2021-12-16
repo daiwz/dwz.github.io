@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="480px" height="344px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="313.543712014959" cy="231.657754010696" r="204.404424635572" gradientTransform="matrix(0.997299791915667 0.0734378992412397 -0.0495950989076704 0.673510303694544 12.3357224888637 52.6078782230774 )" gradientUnits="userSpaceOnUse" id="RadialGradient250">
+      <stop id="Stop251" stop-color="#80ffff" offset="0" />
+      <stop id="Stop252" stop-color="#80ffff" offset="0.36" />
+      <stop id="Stop253" stop-color="#04779d" offset="1" />
+    </radialGradient>
+    <filter x="-20px" y="-20px" width="480px" height="344px" filterUnits="userSpaceOnUse" id="filter254">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="10" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.2  0 0 0 0 0.2  0 0 0 0 0.2  0 0 0 0.996078431372549 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget255">
+      <path d="M 0.5 289.5  C 0.5 289.5  0.5 0.5  0.5 0.5  C 0.5 0.5  439.5 0.5  439.5 0.5  C 439.5 0.5  439.5 289.5  439.5 289.5  C 439.5 289.5  269.218262155898 289.5  269.218262155898 289.5  C 269.218262155898 289.5  257.592592592593 302.724199128261  257.592592592593 302.724199128261  C 257.592592592593 302.724199128261  245.966923029287 289.5  245.966923029287 289.5  C 245.966923029287 289.5  0.5 289.5  0.5 289.5  Z " fill-rule="nonzero" fill="#0a1225" stroke="none" fill-opacity="0.698039215686274" />
+      <path d="M 0 290  C 0 290  0 0  0 0  C 0 0  440 0  440 0  C 440 0  440 290  440 290  C 440 290  269.444444444444 290  269.444444444444 290  C 269.444444444444 290  257.592592592593 303.481481481482  257.592592592593 303.481481481482  C 257.592592592593 303.481481481482  245.740740740741 290  245.740740740741 290  C 245.740740740741 290  0 290  0 290  Z M 1 289  C 1 289  246.193105317832 289  246.193105317832 289  C 246.193105317832 289  257.592592592593 301.96691677504  257.592592592593 301.96691677504  C 257.592592592593 301.96691677504  268.992079867352 289  268.992079867352 289  C 268.992079867352 289  439 289  439 289  C 439 289  439 1  439 1  C 439 1  1 1  1 1  C 1 1  1 289  1 289  Z " fill-rule="nonzero" fill="url(#RadialGradient250)" stroke="none" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 20 20 )">
+    <use xlink:href="#widget255" filter="url(#filter254)" />
+    <use xlink:href="#widget255" />
+  </g>
+</svg>

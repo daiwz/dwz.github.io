@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="429px" height="550px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="298.579125759699" cy="411.49732620321" r="246.689252667658" gradientTransform="matrix(0.121095860709173 0.99264081747584 -0.778524517952925 0.0949750352040084 582.783187057308 76.0335256853754 )" gradientUnits="userSpaceOnUse" id="RadialGradient432">
+      <stop id="Stop433" stop-color="#80ffff" offset="0" />
+      <stop id="Stop434" stop-color="#80ffff" offset="0.36" />
+      <stop id="Stop435" stop-color="#04779d" offset="1" />
+    </radialGradient>
+    <mask fill="white" id="clip436">
+      <path d="M 3.352 539.703200130195  C 1.50074151856719 539.703200130195  0 535.940301529552  0 531.298530869495  L 0 8.40466926070039  C 0 3.76289860064395  1.50074151856719 0  3.352 0  L 415.648 0  C 417.499258481433 0  419 3.76289860064395  419 8.40466926070039  L 419 531.298530869495  C 419 535.940301529552  417.499258481433 539.703200130195  415.648 539.703200130195  L 198.123515151517 539.703200130195  L 170.843168831169 539.703200130195  L 3.352 539.703200130195  Z " fill-rule="evenodd" />
+    </mask>
+    <filter x="-5px" y="-5px" width="429px" height="550px" filterUnits="userSpaceOnUse" id="filter437">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget438">
+      <path d="M 3.352 539.703200130195  C 1.50074151856719 539.703200130195  0 535.940301529552  0 531.298530869495  L 0 8.40466926070039  C 0 3.76289860064395  1.50074151856719 0  3.352 0  L 415.648 0  C 417.499258481433 0  419 3.76289860064395  419 8.40466926070039  L 419 531.298530869495  C 419 535.940301529552  417.499258481433 539.703200130195  415.648 539.703200130195  L 198.123515151517 539.703200130195  L 170.843168831169 539.703200130195  L 3.352 539.703200130195  Z " fill-rule="nonzero" fill="#091322" stroke="none" />
+      <path d="M 3.352 539.703200130195  C 1.50074151856719 539.703200130195  0 535.940301529552  0 531.298530869495  L 0 8.40466926070039  C 0 3.76289860064395  1.50074151856719 0  3.352 0  L 415.648 0  C 417.499258481433 0  419 3.76289860064395  419 8.40466926070039  L 419 531.298530869495  C 419 535.940301529552  417.499258481433 539.703200130195  415.648 539.703200130195  L 198.123515151517 539.703200130195  L 170.843168831169 539.703200130195  L 3.352 539.703200130195  Z " stroke-width="2" stroke="url(#RadialGradient432)" fill="none" mask="url(#clip436)" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 5 5 )">
+    <use xlink:href="#widget438" filter="url(#filter437)" />
+    <use xlink:href="#widget438" />
+  </g>
+</svg>

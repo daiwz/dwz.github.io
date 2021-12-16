@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="104px" height="38px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="215.043010752689" cy="189.095238095238" r="42.7787643082077" gradientTransform="matrix(0 1 -0.58257080093812 0 325.204375063416 -25.9477726574506 )" gradientUnits="userSpaceOnUse" id="RadialGradient1026">
+      <stop id="Stop1027" stop-color="#ffffff" offset="0" />
+      <stop id="Stop1028" stop-color="#aefcfc" offset="0.39" />
+      <stop id="Stop1029" stop-color="#00bfbf" offset="1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -165 -170 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="104" height="38" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAmCAYAAAAoTt69AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAP5SURBVGhD7ZvNihRJFIVvZFRmZHfZoIhuHMHultk4Ij6Bzkv4kD6FLlzLIA2uhBH8wUZk6K6q/KmKnHMiKrqy7RLBSiEX98CtmxGZq/i4kVHkuUb68v4Av9elrp0414kxnVSVhGuqrkNSDSDnYq5rI2Up0nVkwQX+T7LsLNyDIqCuyxF/yWp1FyO/jlXvmoBSqIYR1z5Ftg4bsvcfpCjeoECWEZD3j3twCKYNueuW67ECGl59QBYwJiGL5CETknOvTdjWVqu/MUk4BNICTBMyxxESwfA+pZB2VyyMVDnGEAwB5bguQubY2pcEdBeAHmGCldKs4VQhd12ClLY6SgHtrg0gYwhpgkw4fDG5NaRC2vbEyGJxXyaTPzFBIHxJEQ6jRjQAyIryIaIU0O6KgAiHkWWxcgjImD3cYXYonH9ZQce4uI9JAlpchPcVosG9CMh7hsIZSllmEBGQtTmuC0QZAKWw9r3B4h/JcnmMjPO0EMwc13OAqTDfoMxaZI/sMaeAhpK1RvI8w+6VIefIBeYIaB+g9vHEHuY/cIs7ws17ARDBRDgzQKmkaRo5P29lNvNyepq2ONVQunUrk+k0k2vXchyrC3AoAWkaIDEmk0/c4g4B5BBguLXNQgUlQItFI1+/tgHO6WknJydaQUPpwQMDQIxMbt7MZW9vA4gVZMwUHD6zgg7XFURA5wHQcjnDllahehr58mUp7955efZMK2hoPX+eydFRJrdvT1BFBba0EiwIiFU0xfgzj3gUKyNVR8zpQHB2plXzO5XWd3MAY45RVeGP0jbFh9OhQLe236O0rpvD15V1/hEg1UikgEYuBTRyKaCRSwGNXApo5FJAI5cCGrkU0MilgEYuBTRyKaCRSwGNXApo5FJA41OyZAUlQJy8HHSd0NhwcGDC51nV8OK6cn25zlzv6JGjIoOyxM9VT8IM47m07ULm80a+fVsGT8KLF/rJe2g9fZoFT8KNGxPZ3+cnb1qtrngS6OohoOTqiYBou6rr+sLVU1X6VXVolaW5cPU45wDne1fPx5/54mpAir64ptEKGlpFEX1xztEXFwFt8cUd42ZylrKKuNXNAWrjLPV+hayAhpa1tP1a5L6zlNVDZymr6T3fQX9g8R/icZrkkzebkC57s2lo6Dpuc7rV7S4eCOJBYLs3m6AczgFvCYjtJ08w2W89IaTU6ZC6GxIcBbS7NqfleHJjdwMBsauBcGILirWv4vG5rh+D4h1cbesP6nfaUQpod8V1j39ztvcHWfsJTP6JD25aIAmJQAgqwUmAtHqGVaoiQmKHXYLExq2PGJ8g1i2QSf0mYsJwzuOhy43EFMeqXxMbhpP6DcR1zdPcd03EIv8DOuwyiQr87QQAAAAASUVORK5CYII=" x="165px" y="170px" />
+    <path d="M 165.5 175  A 4.5 4.5 0 0 1 170 170.5 L 264 170.5  A 4.5 4.5 0 0 1 268.5 175 L 268.5 203  A 4.5 4.5 0 0 1 264 207.5 L 170 207.5  A 4.5 4.5 0 0 1 165.5 203 L 165.5 175  Z " stroke-width="1" stroke="url(#RadialGradient1026)" fill="none" />
+  </g>
+</svg>

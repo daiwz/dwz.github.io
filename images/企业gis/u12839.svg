@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="137px" height="70px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="96.2011891490147" cy="101.06172839506" r="80.060152286025" gradientTransform="matrix(0.999460820370466 0.0328339541388898 -0.0164084807575478 0.499471783678574 1.71013914722096 47.4255812193145 )" gradientUnits="userSpaceOnUse" id="RadialGradient374">
+      <stop id="Stop375" stop-color="#80ffff" offset="0" />
+      <stop id="Stop376" stop-color="#80ffff" offset="0.36" />
+      <stop id="Stop377" stop-color="#04779d" offset="1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -24 -69 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="137" height="70" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIkAAABGCAYAAAD4mreoAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKRSURBVHhe7dLPThNRGIbxOTP9M52hlAIpCdAEwXgHRr0DDG6I3oLEhsjGjWxIDDtdu2SJjQkrE5Z6AbpwQWKIpIkQWIAt7bSdtNOe01qS2ZrvAub55ey+8+4e9ezdl4duzn9sov5oMOyNzHBoqfF4bCHRnGzWTqUzdspKf1cv3n99nXb9N1EYRFGnFRk9MEbrUfwXSaMsNWFlvKlMxsunnXT2o9rcP95WqdROt34dduqXoY76ZjjomXiChFH2XSW28gvzbq4w57r54oHa2DuqWNpUbq9qQeP8tB2FnUkjHR1vkDDKse8aUcWFFS9fWvamS+VDtb5brVhGbzUuzoKb2kmrHwZ62A2IJKGU41i246jC0po/s1D2C4urVfX07adXehC9/PvnV+v6989m1G7qXrc5jDdImEkkynZSarb8wC8u3ZuaXb7/2Y5vwH8RCUREAhGRQEQkEBEJREQCEZFARCQQEQlERAIRkUBEJBARCUREAhGRQEQkEBEJREQCEZFARCQQEQlERAIRkUBEJBARCUREAhGRQEQkEBEJREQCEZFARCQQEQlERAIRkUBEJBARCUREAhGRQEQkEBEJREQCEZFARCQQEQlERAIRkUBEJBARCUREAhGRQEQkEBEJREQCEZFARCQQEQlERAIRkUCk1nerFcvorcbFWXBTO2n1w0APu4GO70gY5TiW7TiqsLTmzyyU/cLialVt7B1VLG0qt1e1oHF+2o7CznDQ6xBJQinHVmryigsrXr607E2Xyodqc/94W6VSO936ddipX4Y66ptJJSbeIGEmgVh3lfiFeTdXmHPdfPFAPf/w7VE64z0ZhG0ddZpGm8FobMw43iBhxqORshzbyuY8J+PP2Jms++MfSizInUb2vvsAAAAASUVORK5CYII=" x="24px" y="69px" />
+    <path d="M 24.5 69.5  L 160.5 69.5  L 160.5 138.5  L 24.5 138.5  L 24.5 69.5  Z " stroke-width="1" stroke="url(#RadialGradient374)" fill="none" />
+  </g>
+</svg>

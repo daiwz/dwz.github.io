@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="110px" height="55px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="97.9717577108877" cy="71.1913580246903" r="64.2804254115141" gradientTransform="matrix(0.999497924347978 0.0316843687657376 -0.0154953842691358 0.48880899374973 1.15232668336662 33.2882086450254 )" gradientUnits="userSpaceOnUse" id="RadialGradient180">
+      <stop id="Stop181" stop-color="#80ffff" offset="0" />
+      <stop id="Stop182" stop-color="#80ffff" offset="0.36" />
+      <stop id="Stop183" stop-color="#04779d" offset="1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -40 -46 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="110" height="55" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAA3CAYAAADt2n/EAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJaSURBVHhe7dzLahNRHMfx+c85c8tkmks13oIXikUQFy6UPoJiFwp9BcVU68aNbhSxK1/AXVfSIgiCUHDjGxRcCCKVQpVY6M1kkpkmkzkz48TmIeYPvw/nz4HDf/fdH5p/9emG7bhzSTRMR/EgTeJYoyzLNCiUjIiEYWim4ei67WzQwpsvS4btPo1CP4r63ShRoyRRKp3sQ0EIKXUhTWF5VcssVd7Svdfrj0jKJ8HBbtg/aIcqGibxaJBM9qEgDNMR0rKFd6LplqdPr9CdFx9amkpaf/9s+Ye/fvSisJ9366vJPhSE6XjScj1j+sKVqfrZmVW69XytpSXqweHvn/7e1rfuMPRVHPgIVzBGuSJttyIbM9eq9fOX1+j2s9WHahTd39/+3t3d/NqJeh01CDrxZB8KwinXDGuqJk/NXq81Ll19r0/egRmEYwrhmEI4phCOKYRjCuGYQjimEI4phGMK4ZhCOKYQjimEYwrhmEI4phCOKYRjCuGYQjimEI4phGMK4ZhCOKYQjimEYwrhmEI4phCOKYRjCuGYQjimEI4phGMK4ZhCOKYQjimEYwrhmEI4phCOKYRjCuGYQjimjsORRqQLjYROJMa3GN+YYs1xn7xTlqaUh8sfKB/t/2N+xiMxhZs8Xt5n3EkTukbzLz8u5gkX/Z3tXqe92RsOQjU6wkejRWOWPGk7rqw1Z6cqZy6+o7vL6491KZeC/Z2wv9cO4uFREsf42rdoDMMRhl0SXqNZLp88t0ILy59vkmPPRf1uEgVdpVScpSrCL+gFo0uLpDTIKldlqVLf+AdMG7zpx5PugwAAAABJRU5ErkJggg==" x="40px" y="46px" />
+    <path d="M 40.5 46.5  L 149.5 46.5  L 149.5 100.5  L 40.5 100.5  L 40.5 46.5  Z " stroke-width="1" stroke="url(#RadialGradient180)" fill="none" />
+  </g>
+</svg>

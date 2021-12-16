@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="96.8546406940612" cy="27.9278523489926" r="53.7277246219089" gradientTransform="matrix(0.222703353437923 -0.974886258169384 0.673722733040188 0.153905453767657 56.4691584029626 118.051861813038 )" gradientUnits="userSpaceOnUse" id="RadialGradient152">
+      <stop id="Stop153" stop-color="#ffffff" offset="0" />
+      <stop id="Stop154" stop-color="#aefcfc" offset="0.39" />
+      <stop id="Stop155" stop-color="#00bfbf" offset="1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -65 0 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAANfSURBVGhD7ZpNb9MwGMedNG2z0UG17gWJHkBIMKASh62ABgcuSBzg07IPwIGBeCniUCQEEgfogXUrVKyDdG0d/NQ2TdK82UncIPGTojxJq8h/+3mLFc22bWM4HD5ECG2TI1WedQ1mZYet260H9eKeZlnWI3L9hN5Oj/3DIrOyB2v4sU7Oqa+EajSsbYOQTNg0J8xSQyZC9g8NdGAV2JUaMloRjZ3VkboQlUHuJLMYUU2qQha1GkBqQhYpAvjvWk4WvRpAYiF5EAEkEmKzcx5IJOR5TlYDkBby9SSV8EoNqdG8PDLQl19qe6kohIWMMEJjW30vFYWwkFe9/MSFk3w5egKEhEBs5BUhIXmMDU5sIXmp4EFECsGkfMcVcXd9hLbOjtmVWkKFQAvy4ihcBAzeSa1sz91TQaiQqBbEOeCd1Znd7tNiqSvsxgKFgEsFcWVljOrLdLvHYrs+ZUehb1TpTaxwEyJQSJhLfTw2UIe0KBA7re/5SAKRwf6vEChkVzBgnZntVO0m45RAIeDdEMzXBNJpq0cr/+sFuFuka62SdAqslfBUGBy7a/TsxcLawgpnrBiBQV89N/MXLUEy0jJKyfGDfdRjRjB+q+TFziglxxdSrDGD4ldn4KUrjpgsiC/Eg+4zsfDSJRIj502iXJJqEaM7JFY5QkK0kw/MmgdW4lbNfzX8VunC0gR9s+TmEZ53g3QPBcdkCj3JPrPFLDd8oGGvwfAf/j84X6zQLCgDuLAXadfiiBZO2cE7cU4Yf560EB7svEMOi42w32SF8VxzylZHSojef+pqKg9+64EDqpFCWtLCa8ftgNgKg08g7yakhODqfWZRNpfotPiJuVSZoOZaeJtjJHBw/qqQKEa8VbrryUIgDCvasJAW0iTusLs+dq3Cp+P5bdS3P9RsIUkLKSVay3lEgx4K4hsWH4D0cPTjFrMo3swEA+sPxdxKpNJDQdypzTzir5BOp8OseODl68xyiyjps12U9z8NoZm+vDJBN6vR7z8bZYyGHs16u92eGvV6fXqOTWGJGXT2+dEks8QREcGpFG1XD+UF2pLuUJ9zJb3RaLh9JCba4B2z0uezT9IAYGL4BmDRoQS+2XJ9eDYYDJBpmsgwFr9ZDR+tNYibtft0LPc2Al2uZZrm3h9hIhj+ATasPQAAAABJRU5ErkJggg==" x="65px" y="0px" />
+    <path d="M 65.5 2  A 1.5 1.5 0 0 1 67 0.5 L 113 0.5  A 1.5 1.5 0 0 1 114.5 2 L 114.5 48  A 1.5 1.5 0 0 1 113 49.5 L 67 49.5  A 1.5 1.5 0 0 1 65.5 48 L 65.5 2  Z " stroke-width="1" stroke="url(#RadialGradient152)" fill="none" />
+  </g>
+</svg>

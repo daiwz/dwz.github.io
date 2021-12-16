@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="180px" height="80px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="321.86287625418" cy="106.64197530864" r="105.175754436291" gradientTransform="matrix(0.999650816244558 0.0264243369186089 -0.0114893304276352 0.434649261983964 1.3376341796443 51.7851063604948 )" gradientUnits="userSpaceOnUse" id="RadialGradient490">
+      <stop id="Stop491" stop-color="#80ffff" offset="0" />
+      <stop id="Stop492" stop-color="#80ffff" offset="0.36" />
+      <stop id="Stop493" stop-color="#04779d" offset="1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -227 -70 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="180" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAABQCAYAAACwGF+mAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK4SURBVHhe7dLPSlRhHMbxeee858wcz4zjP0xElBAjCBctorqDwjZRt5A0SG7a5EYId3UB7VwqQavAZV2B0EIISYSKXGiaHmcOzpl5XycXcxHjw/ez/P2e5dc8efv5XjlOHvi8ddnuXFz6Tqdgut1uAbgGusaYIAwLURgXi+V42zx/9+VVWE5e51ma542z3Lu2985d9vZAXwusLQY2CkrVoVI0UPtgnq5tLRlrl5vHh1nj+E/m8pbvtC98bw/0tTCKA1sqB9WxqaQyOrFuFlY/1QvO1/8d7Kcnv3bP86xx1XPD9fZAX4viqi0l1XB05vbgyOTshnm0slkveLd48nsvPdrfOWtlqes0U4LGtRBWarac1Oz47PzQyPTcpnn8ZuOla+cv/v78fnb449tpfn7qLpqnnd4e6GtxZTgsDQ7bG7fuDo/fvPOx2LsDEggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUggaUsyjlc16wbvFk9976dH+zlkrS12nmbreH+hrYaVmy0nNjs/OD41Mz22ahdVP9YLz9X8H++nJr93zPGt02hcNgsa1EMVVW0qq4ejM7cGRydkN83Rta8lYu9w8Pswax38yl7f8VdG+twf6WhjFgS2Vg+rYVFIZnVg3z95/vR9GAw/b2bnLG6fe+fZl1/tubw/0NRMExgZRsVQdDuJkcPs/0XbHbIMhzsoAAAAASUVORK5CYII=" x="227px" y="70px" />
+    <path d="M 227.5 70.5  L 406.5 70.5  L 406.5 149.5  L 227.5 149.5  L 227.5 70.5  Z " stroke-width="1" stroke="url(#RadialGradient490)" fill="none" />
+  </g>
+</svg>

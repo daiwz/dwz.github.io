@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="464px" height="60px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="311.535414344108" cy="586.48148148148" r="271.048308043367" gradientTransform="matrix(0.999979918339584 0.00633742199631074 -0.000802135722860885 0.126568755419891 0.476693895491168 510.276918906061 )" gradientUnits="userSpaceOnUse" id="RadialGradient736">
+      <stop id="Stop737" stop-color="#80ffff" offset="0" />
+      <stop id="Stop738" stop-color="#80ffff" offset="0.36" />
+      <stop id="Stop739" stop-color="#04779d" offset="1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -67 -559 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="464" height="60" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAdAAAAA8CAYAAADWrOtNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALRSURBVHhe7dW9ilwFGMfhOXPOmY/MzM5+hDWEkCBLJCApLES9g0hsgt6CwSGYxsY0AUmnF2CXchchlZBSryBgEZBgWDAhKTbuZnd2dtg5M+fsOMUgaX3r5ynf99//ki9++PXjVrvzaVVMzqaz07NqNqsl8/m8BgD8Z54kSZrntUbertdb7SfJVz/+9m3e6nxXjIdFMToqqnJaVWV5ttwDAAtpltXTrJE2e6vNxrn+z8mtB4/vJFl292R/bzzafzUui0k1m55Wyz0AsJA32mnWbKW985c63Y0LD5Ob9x8NamU1ePt6d3jw4tlxMR4t+jkql3sAYKHR7mXNTi/fuHJtZf3i1nZy497OoFaVtw9ePh++2X16NBkPy9nJUEAB4B15t5+1Ov1sc+v66vrlqzvJ599vf1NOi6//+fvPo72//jgsjg/L05PD2XIPACy0u2t5c2Ute++Dj9Y23//wl/ryDgD8DwIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAECCgABAgoAAQIKAAHJjXs7g1pV3j54+Xz4Zvfp0WQ8LGcnw3L5BwAW8m4/a3X62ebW9dX1y1d3kpv3Hw1qZTV4+3p3ePDi2XExHs2mpyMBBYB3NNq9rNnp5RtXrq2sX9zaTm49eHwnybK7J/t749H+q3FZTKpFQavlHgBYyBvtNGu20t75S53uxoWHyZc//f5J3jj32XR8XBajw6qspmfzqpov9wDAQpKmSZY26s3eWtrurDz5F+7Px0RiyncjAAAAAElFTkSuQmCC" x="67px" y="559px" />
+    <path d="M 67.5 559.5  L 530.5 559.5  L 530.5 618.5  L 67.5 618.5  L 67.5 559.5  Z " stroke-width="1" stroke="url(#RadialGradient736)" fill="none" />
+  </g>
+</svg>

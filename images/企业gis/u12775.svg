@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="218px" height="90px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="138.889483463396" cy="127.22222222222" r="127.373614477395" gradientTransform="matrix(0.999717059467197 0.0237865720578057 -0.00960796290895512 0.403809527638872 1.26164385675783 72.5449720550246 )" gradientUnits="userSpaceOnUse" id="RadialGradient335">
+      <stop id="Stop336" stop-color="#80ffff" offset="0" />
+      <stop id="Stop337" stop-color="#80ffff" offset="0.36" />
+      <stop id="Stop338" stop-color="#04779d" offset="1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -24 -86 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="218" height="90" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAABaCAYAAADerUgDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALuSURBVHhe7dPPSlRhHMbxeee858wcz4zjP0wkkpBCiBYtoroDwzZSt5A0RG7a5EYId3UB7VwqgaugZV1B0CIISYQUXWj+O84cnDPzvk4u5gomelbfz/L3e7Zf8+Ttp/vlOHno89Zlu3Nx6Tudgul2uwUAfesaY4IwLERhXCyW42/m2bsvr8Jy8jrP0jxvnOXetb137rK3B9CHwNpiYKOgVB0qRQO1D2Z+5fNLY+1i8+ggaxztZS5v+U77wvf2APoQRnFgS+WgOnY9qYxOrJq55Y16wfn6yf52eryzeZ5njavOGq63B9CHKK7aUlINR6dmBkcmp9fM7NJ6veDdwvHuVnq4/eOslaWu00wJDfgHYaVmy0nNjk/fHRq5cWvdPH6z9sK18+d/fv88O/j1/TQ/P3UXzdNObw+gD3FlOCwNDttrt+8Nj9+887HYuwP4jwgNECA0QIDQAAFCAwQIDRAgNECA0AABQgMECA0QIDRAgNAAAUIDBAgNECA0QIDQAAFCAwQIDRAgNECA0AABQgMECA0QIDRAgNAAAUIDBAgNECA0QIDQAAFCAwQIDRAgNECA0AABQgMECA0QIDRAgNAAAUIDBAgNECA0QIDQAAFCAwQIDRAgNECA0AABQgMECA0QIDRAgNAAAUIDBAgNECA0QIDQAAFCAwQIDRAgNECA0AABQgMECA0QIDRAgNAAAUIDBAgNECA0QIDQAAFCAwQIDRAgNECA0AABQgMECA0QIDRAgNAAAUIDBAgNECA0QIDQAAFCAwQIDRAgNECA0AABM7u0Xi94t3C8u5Uebv84a2Wp6zRT1/sD6ENYqdlyUrPj03eHRm7cWjdzyxv1gvP1k/3t9Hhn8zzPGp32RYPQgH8QxVVbSqrh6NTM4Mjk9JqZX/n80li72Dw6yBpHe5nLW/6qNN/bA+hDGMWBLZWD6tj1pDI6sWqevv/6IIwGHrWzc5c3Tr3z7cuu993eHkAfTBAYG0TFUnU4iJPBb38B6XLHgKJ4GpQAAAAASUVORK5CYII=" x="24px" y="86px" />
+    <path d="M 24.5 86.5  L 241.5 86.5  L 241.5 175.5  L 24.5 175.5  L 24.5 86.5  Z " stroke-width="1" stroke="url(#RadialGradient335)" fill="none" />
+  </g>
+</svg>
